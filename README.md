@@ -1,5 +1,3 @@
-
-
 ### Hi 👋, I'm TINNIA :octocat:
 
 Hi, I'm Tinnia, a Full Stack Developer 🚀 from Repubilc of Korea.
@@ -16,28 +14,20 @@ Hi, I'm Tinnia, a Full Stack Developer 🚀 from Repubilc of Korea.
 
 > Programming Language
 
-| Python | Java | 
-| ------ | -------- | 
-| <img src="https://img.icons8.com/color/40/000000/python.png"/> | <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/> | 
-
+<img src="https://img.icons8.com/color/30/000000/python.png"/> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
 
 > FrontEnd
 
-| HTML | CSS | JS | BS | VUE |
-| ---------- | --- | ---- | ------ | ----- |
-| <img src="https://img.icons8.com/color/40/000000/html-5.png"/> | <img src="https://img.icons8.com/color/40/000000/css3.png"/> | <img src="https://img.icons8.com/color/40/000000/javascript-logo-1.png"/> | <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/> | <img src="https://img.icons8.com/color/40/vue-js.png"/> |
+<img src="https://img.icons8.com/color/30/000000/html-5.png"/> <img src="https://img.icons8.com/color/30/000000/css3.png"/> <img src="https://img.icons8.com/color/30/000000/javascript-logo-1.png"/> <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/30/vue-js.png"/>
 
 
 > BackEnd / DataBase
 
-| Django | Spring | Json | Docker | Maria |
-| ------ | ------ | ------ | -------- | ------ |
-| <img src="https://img.icons8.com/material/40/000000/django.png"/> | <img src="https://img.icons8.com/color/40/000000/spring-logo.png"/> | <img src="https://img.icons8.com/material/40/000000/json.png"/> | <img src="https://img.icons8.com/color/40/000000/docker.png"/> | <img src="https://img.icons8.com/color/40/000000/db-2.png"/> |
+<img src="https://img.icons8.com/material/30/000000/django.png"/> <img src="https://img.icons8.com/color/30/000000/spring-logo.png"/> <img src="https://img.icons8.com/material/30/000000/json.png"/> <img src="https://img.icons8.com/color/30/000000/docker.png"/> <img src="https://img.icons8.com/color/30/000000/db-2.png"/>
+
 
 > Server / ETC
 
-| AWS | Node | Git | Jira |
-| ----- | ---- | -------- | ------ |
-| <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/> | <img src="https://img.icons8.com/color/40/000000/nodejs.png"/> | <img src="https://img.icons8.com/color/40/000000/git.png"/> | <img src="https://img.icons8.com/color/40/000000/jira.png"/> |
+<img src="https://img.icons8.com/color/30/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/30/000000/nodejs.png"/> <img src="https://img.icons8.com/color/30/000000/git.png"/> <img src="https://img.icons8.com/color/30/000000/jira.png"/>
 
 
