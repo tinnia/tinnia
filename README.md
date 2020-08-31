@@ -12,7 +12,6 @@ Hi, I'm Tinnia, a Full Stack Developer 🚀 from Repubilc of Korea.
 
 
 **Available Tech Stack**  
-<br>
 
 > Programming Language
 
