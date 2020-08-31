@@ -1,4 +1,4 @@
-### Hi 👋,TINNIA's GitHub :octocat:
+### Welcome,TINNIA's GitHub :octocat:
 
 I'm Tinnia, a Full Stack Developer 🚀 from Repubilc of Korea.
 
