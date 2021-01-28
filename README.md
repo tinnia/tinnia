@@ -7,7 +7,6 @@ I'm Tinnia, a Full Stack Developer 🚀 from Repubilc of Korea.
 **Talking about Personal Stuffs**
 
 - :mortar_board: My major : Chemical Engineering
-- :office: I’m currently working on my project with *SSAFY*
 - 🌱 I’m currently learning *BigData*, *React*, *AI*
 - :iphone: My Blog : https://tinnia.github.io
 - 📫 How to reach me : *ektha3869@naver.com*
