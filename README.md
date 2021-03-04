@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=header&text=😊%20TINNIA%20😊&fontSize=30&animation=twinkling)
 
-<br />
 <h3 align="center">💡 Tech Stack 💡</h3>
 <br />
 <p align="center">
