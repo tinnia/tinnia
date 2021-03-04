@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=header&text=😊%20TINNIA%20😊&fontSize=30&animation=twinkling)
 
-<h3 align="center">💡 Tech Stack 💡</h3>
-<br />
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;
@@ -18,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 </p>
-
+<br />
 <h3 align="center">•••</h3>
 
 <p align="center">
