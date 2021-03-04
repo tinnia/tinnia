@@ -5,9 +5,7 @@
   <a target="_blank" href="https://tinnia.github.io/"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>&nbsp;
   <a target="_blank" href="mailto:ektha3869@gmail.com?Subject=title:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-<br />
 <h3 align="center">•••</h3>
-<br />
 <h3 align="center">💡 Tech Stack 💡</h3>
 <br />
 <p align="center">
