@@ -1,36 +1,28 @@
-### Welcome,TINNIA's GitHub :octocat:
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=header&text=TINNIA&fontSize=40&animation=twinkling)
 
-I'm Tinnia, a Full Stack Developer 🚀 from Repubilc of Korea.
+<br />
+<h3 align="center">💡 Tech Stack 💡</h3>
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
+</p>
 
-***
+<h3 align="center">•••</h3>
 
-**Talking about Personal Stuffs**
-
-- :mortar_board: My major : Chemical Engineering
-- 🌱 I’m currently learning *BigData*, *React*, *AI*
-- :iphone: My Blog : https://tinnia.github.io
-- 📫 How to reach me : *ektha3869@naver.com*
-
-
-
-**Available Tech Stack**  
-
-> Programming Language
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/30/000000/python.png"/> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"/>
-
-> FrontEnd
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/30/000000/html-5.png"/> <img src="https://img.icons8.com/color/30/000000/css3.png"/> <img src="https://img.icons8.com/color/30/000000/javascript-logo-1.png"/> <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/> <img src="https://img.icons8.com/color/30/vue-js.png"/>
-
-
-> BackEnd / DataBase
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/material/30/000000/django.png"/> <img src="https://img.icons8.com/color/30/000000/spring-logo.png"/> <img src="https://img.icons8.com/material/30/000000/json.png"/> <img src="https://img.icons8.com/color/30/000000/docker.png"/> <img src="https://img.icons8.com/color/30/000000/db-2.png"/>
-
-
-> Server / ETC
-
-&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/30/000000/nodejs.png"/> <img src="https://img.icons8.com/color/30/000000/git.png"/> <img src="https://img.icons8.com/color/30/000000/jira.png"/>
-
-
+<p align="center">
+  <a target="_blank" href="https://tinnia.github.io/"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>&nbsp;
+  <a target="_blank" href="mailto:ektha3869@gmail.com?Subject=title:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
