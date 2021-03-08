@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=header&text=😊%20TINNIA%20😊&fontSize=30&animation=twinkling)
 
-
+<h3 align="center">✨ Hi, There ✨</h3>
+<br />
 <p align="center">
-  <a target="_blank" href="https://tinnia.github.io/"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>&nbsp;
+  <a target="_blank" href="https://tinnia.github.io/"><img src="https://img.shields.io/badge/Blog-663399?style=flat&logo=Gatsby&logoColor=white"/></a>&nbsp;&nbsp;
   <a target="_blank" href="mailto:ektha3869@gmail.com?Subject=title:"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 <h3 align="center">•••</h3>
